@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SRISTI_PAYMENT_FORM }}
-          projectId: sristi-payment-form
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SRISTI_PAYMENT_FORM_A6AD3 }}
+          projectId: sristi-payment-form-a6ad3
